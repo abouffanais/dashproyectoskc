@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://script.google.com/a/macros/kitchencenter.cl/s/AKfycbzVfU03RzhOwd1FekX5lbimgCpyh1hPg7mgtJdiJmq1IBB7mhsUB0UMGS7P_JKhIPT8jQ/exec",
+      "permanent": false
+    }
+  ]
+}
